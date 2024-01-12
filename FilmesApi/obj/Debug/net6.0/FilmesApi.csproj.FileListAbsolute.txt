@@ -41,3 +41,9 @@ C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Deb
 C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\Users\03431802192\Documents\Thiago Elias\Projetos\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
